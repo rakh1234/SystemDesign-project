@@ -16,4 +16,9 @@ The features that are listed:
 
 * Rent Cinema Hall: it will allow the user to rent the cinema hall with their prices and schedule time.
 
+## Resources:
+* Drow.io 
+* Canva
+* StarUML
+
 
