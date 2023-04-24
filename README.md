@@ -1,5 +1,5 @@
 ## Date created:
-January.7.2023
+January / 7 / 2023
 
 # SystemDesign-project
 ## Project Overview:
