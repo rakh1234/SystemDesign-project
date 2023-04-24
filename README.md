@@ -1,3 +1,6 @@
+## Date created:
+January.7.2023
+
 # SystemDesign-project
 ## Project Overview:
 I chosed VOX cinemas app where i added an additional feature that are not available such as reviewing movie, online customer support...etc. The methodology we have used for the system development is agile methodology. Because it focuses on development and testing activities simultaneously with leading to communication with clients and developers.
